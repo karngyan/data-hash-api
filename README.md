@@ -1,6 +1,6 @@
 # Data Hash Api
 
-Hosted version: 
+Hosted version: https://data-hash-api.karngyan.now.sh/dataWithHash
 
 ## Local development
 
